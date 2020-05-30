@@ -2,6 +2,7 @@ CSS Keyframe Animation with Pause between Keyframes
 witter:Davecar Grave
 
 
+
 Earth travels around the Sun with pause between keyframes
 Have you ever wonder about how we can pause the animation when it starts?
 We can use animation-delay property but it will only delay the start of the animation, once the animation starts it will continuously animate. Once the CSS keyframe animation starts, we cannot pause it unless we will use javascript. So how can we make the animation to pause between keyframes?
